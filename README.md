@@ -80,6 +80,7 @@ y = f(x)
 
 Имеется система, решить методом Ньютона
 
+![img](https://github.com/NastyRu/Computational_algorithms/blob/master/5/alg.jpg)
 
 ## Lab 6
 
